@@ -2,10 +2,14 @@
 Robot that clicks on a loop to automate click testing
 
 
-To run the APP
-
 Requirements Java installed and added to PATH env variables
 
+
+To run the APP
+
+Double click the bat file 'start.bat'
+
+OR
 
 
 Execute
